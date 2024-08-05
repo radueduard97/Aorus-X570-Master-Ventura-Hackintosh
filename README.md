@@ -12,9 +12,9 @@ This repository contains working EFI for motherboard X570 Gigabyte Aorus Master 
 |----|----|
 | Motherboard | Gigabyte X570 Aorus Master |
 | CPU | Ryzen 7 5800x3D |
-| RAM | 65GB (4x16) Corsair RGB PRO  |
+| RAM | 64GB (4x16) Corsair RGB PRO  |
 | GPU | Sapphire Nitro + 6900XT |
-| SSD1 | ADA S70 Blade ( MacOS) |
+| SSD1 | ADATA S70 Blade ( MacOS) |
 | SSD2 | Samsung 970 Evo + ( Windows) |
 | PSU | 1200W Platinum |
 | BT/WI-FI | Fenvi T919 (MacOS) / Intel AX 201 ( Windows ) |
